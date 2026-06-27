@@ -1,9 +1,9 @@
-### Scrape Book Listing with Scrapy in Python
+# Scrape Book Listing with Scrapy in Python
 
 ## Scraping a list of products is not about a single request. You need structure, pagination, anti-blocking logic, and a clean data pipeline.
 
 Scrapy is an open-source Python framework for building web crawlers and scrapers. It handles concurrency, pagination, retries, data pipelines, and request throttling out of the box, making it way more scalable than single-script solutions using requests + BeautifulSoup.
-# Full blog: https://datatodeploy.com/scrapy-python-framework-tutorial/
+### Full blog: https://datatodeploy.com/scrapy-python-framework-tutorial/
 
 
 ## Step 1: Environment Setup and Installation
